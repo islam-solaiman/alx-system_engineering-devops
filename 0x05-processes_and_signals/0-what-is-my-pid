@@ -1,4 +1,4 @@
-#!/usr/bin/env bach 
-# Bash script that displays its own PID.
+#!/usr/bin/env bash
+# Displays its own process ID.
 
 echo $$
