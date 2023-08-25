@@ -1,6 +1,6 @@
 # Distributed Web Infrastructure
 
-![Alt](https://raw.githubusercontent.com/B3zaleel/0x09-web_infrastructure_design/main/1-distributed_web_infrastructure.jpg)
+![Alt](https://raw.githubusercontent.com/islam-solaiman/alx-system_engineering-devops/master/0x09-web_infrastructure_design/1-distributed_web_infrastructure.png)
 
 ## Description
 
