@@ -1,6 +1,6 @@
 # Simple Web Stack
 
-![Alt](https://raw.githubusercontent.com/besthor/web_infrastructure_design/master/0-simple_web_stack.jpg)
+![Alt](https://raw.githubusercontent.com/islam-solaiman/alx-system_engineering-devops/master/0x09-web_infrastructure_design/0-simple_web_stack.png)
 
 # Description
 
