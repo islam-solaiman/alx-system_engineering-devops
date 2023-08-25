@@ -39,3 +39,22 @@ database is a large quantity of indexed digital information. It can be searched,
 
 Communication between the client and the server occurs over the internet network through the (TCP/IP) protocol suite.
 
+
+#  ssues With This Infrastructure
+
+
+* This server is a SPOF (Single Point of Failure) because nothing is redundant.
+
+There are multiple SPOF (Single Point Of Failure) in this infrastructure.
+For example, if the MySQL database server is down, the entire site would be down.
+
+This website would be temporarily down when new code is deployed and the web server needs to be restarted.
+
+* Downtime when maintenance is needed.
+
+When we need to run some maintenance checks on any component, they have to be put down or the server has to be turned off. Since there's only one server, the website would be experiencing a downtime.
+
+* This infrastructure Cannot scale if there's too much incoming traffic.
+
+It will not be able to handle traffic that exceeds the server capacity.
+It would be hard to scale this infrastructure becauses one server contains the required components. The server can quickly run out of resources or slow down when it starts receiving a lot of requests.
